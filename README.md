@@ -15,6 +15,7 @@ This is a fully functional **Educational Website** built with **WordPress** and 
 ## 📸 Screenshots
 ![WhatsApp Image 2025-04-06 at 11 53 33 AM](https://github.com/user-attachments/assets/63795489-147e-4929-a9b9-f57ebfe4ee7b)
 ![WhatsApp Image 2025-04-06 at 11 52 47 AM](https://github.com/user-attachments/assets/26417924-b750-402e-85c7-9bbbae13396a)
-
+![WhatsApp Image 2025-04-06 at 11 55 20 AM](https://github.com/user-attachments/assets/4f604a54-16ff-4e48-b960-e90743894fa8)
+![WhatsApp Image 2025-04-06 at 11 54 10 AM](https://github.com/user-attachments/assets/3b087c54-ffc9-4f3d-b402-d2e251bd8760)
 
 
