@@ -1,6 +1,6 @@
 # 🎓 Educational WordPress Website
 
-This is a fully functional **Educational Website** built with **WordPress** and designed using the **Elementor** page builder. The website is ideal for schools, colleges, or any learning platforms looking to build an engaging, responsive, and user-friendly site.
+This is a fully functional **Educational Website** built with **WordPress** and designed using the **Elementor** page builder. The website is ideal learning platforms looking to build an engaging, responsive, and user-friendly site.
 
 ---
 
